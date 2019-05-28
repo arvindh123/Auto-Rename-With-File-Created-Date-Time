@@ -2,7 +2,11 @@ Batch File For Auto Rename of Files with file created Date & time
 =================================================================
 The simple windows batch file which helps to rename with file created date and time of the specific files extension in a folder 
 The file extension which need to rename can be changed in the .bat file. Default it detect and rename *.jpeg
+
+This will not rename again if the filename contains created Date Time
+
 For Example the Folder name - Images having some jpeg. Put this bat file in the folder and run the bat file
+
 Before Running Bat File
     Images 
     --->hello.jpeg          (File Created at : 28-May-2019 12:15 PM)
